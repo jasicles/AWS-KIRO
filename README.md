@@ -190,7 +190,7 @@ Shopping list items link directly to search pages of local grocery stores:
 
 ## Team
 
-Built for AWS Hackathon 2025
+Built for AWS Kiro Buildfest 2026 Hackathon Singapore
 
 ---
 
